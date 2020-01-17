@@ -1,0 +1,13 @@
+{
+    "name": "kennedy/laravel-php-codesniffer",
+    "description": "An opinionated PHP codesniffer configuration for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kennedy Osaze",
+            "email": "me.osaze@gmail.com"
+        }
+    ],
+    "require": {}
+}
