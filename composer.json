@@ -3,11 +3,21 @@
     "description": "An opinionated PHP codesniffer configuration for Laravel",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "php",
+        "code sniffer",
+        "phpcs",
+        "coding standard",
+        "laravel"
+    ],
     "authors": [
         {
             "name": "Kennedy Osaze",
             "email": "me.osaze@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "slevomat/coding-standard": "^6.0"
+    }
 }
